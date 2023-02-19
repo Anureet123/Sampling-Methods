@@ -1,9 +1,22 @@
-# Sampling_Assignment
-## **Step 1- Go through "Sampling PPT.pdf" to learn Sampling, its examples and its types, need of sampling, and Goodness of a sample.**
-### *<a href="https://docs.google.com/presentation/d/e/2PACX-1vShCVtfMfkO89a6PUcjyvLwf_gpFJW7Pr-QD8XlWaqMICcgP51MM4l5Zt0V032DlQ/pub?start=false&loop=false&delayms=60000"> Click Here</a> for ppt.
-## **Step 2- Explore the below links**
-## **1. Download the data-set**
-### *<a href="https://github.com/AnjulaMehto/Sampling_Assignment/blob/main/Creditcard_data.csv"> Click Here</a> for Dataset
-## **2. Techniques to deal with Imbalanced classes in Machine Learning**
-### *<a href="https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/?"> Click Here </a> 
-## **3. Explore "Sampling_Assignment.pdf" for more information**
+# Sampling Methods
+This assignment includes trying diferent sampling techniques on a dataset and then applying 5 different models and finding the best model.
+5 sampling techniques used for this imbalanced data are- 
+1. Random Oversampling
+2. K fold
+3. Random Sampling
+4. Systematic Sampling
+5. Cluster Sampling
+
+5 Machine learning models used:
+1. Decision Tree Classifier	
+2. Logistic Regression
+3. KNN Classifier
+4. SVM Classifier
+5. Passive Aggressive Classifier
+
+The best model wrt each sampling technique:
+1. Random Oversampling - Decision Tree Classifier	
+2. K fold - SVM Classifier
+3. Random Sampling - KNN Classifier
+4. Systematic Sampling - Logistic Regression
+5. Cluster Sampling - Passive Aggressive Classifier
