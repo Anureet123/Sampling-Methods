@@ -1,4 +1,4 @@
-# Sampling Methods
+# Sampling
 This assignment includes trying diferent sampling techniques on a dataset and then applying 5 different models and finding the best model.
 5 sampling techniques used for this imbalanced data are- 
 1. Random Oversampling
